@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm v9mirza
 
-<!--
-**v9mirza/v9mirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer · Tech writer · BCA student  
+I build tools, break down systems, and write about the logic behind modern tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+- Develop full-stack web applications with JavaScript, Python, and C++
+- Explore system design, backend architecture, and digital security
+- Write about tech strategy, AI trends, and developer tools — from a builder’s perspective
+
+---
+
+## Find Me Elsewhere
+
+Blog      → [mirzalog.hashnode.dev](https://mirzalog.hashnode.dev)  
+Portfolio → [v9mirza.tech](https://v9mirza.tech)  
+Twitter   → [x.com/v9mirza](https://x.com/v9mirza)
+
+---
+
+*"I write about tech strategy, AI trends, and digital tools — from a builder’s perspective."*

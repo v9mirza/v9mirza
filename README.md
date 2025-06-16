@@ -16,7 +16,7 @@ I build tools, break down systems, and write about the logic behind modern tech.
 ## Find Me Elsewhere
 
 Blog      → [mirzalog.hashnode.dev](https://mirzalog.hashnode.dev)  
-Portfolio → [v9mirza.tech](https://v9mirza.tech)  
+Portfolio → [v9mirza.tech](https://v9mirza.com)  
 Twitter   → [x.com/v9mirza](https://x.com/v9mirza)
 
 ---
